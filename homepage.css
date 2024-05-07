@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-color: #A8C686;
+}
+
+.first_container{
+    display: inherit;
+    align-items: center;
+    margin-top: 12rem;
+}
+.first_container h1{
+    font-family: 'Poppins';
+    font-weight: 500;
+
+}
+.first_container a{
+    font-family: 'Poppins';
+    text-decoration: none;
+    background-color: #508991;
+    
+}
